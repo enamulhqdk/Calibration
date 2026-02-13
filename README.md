@@ -1,5 +1,8 @@
 # Camera to Robot Coordinate Mapping using Homography
-**Git Hub Link:**https://github.com/enamulhqdk/Calibration
+**Git Hub Link:**
+https://github.com/enamulhqdk/Calibration
+
+
 **Group members:**  
 Choton Enamul , Nizam Sabiha , Taqi Muhammad  
 **Course:** Machine vision  
@@ -159,12 +162,3 @@ The mapping process is extremely fast. Once the homography matrix is computed, c
 This makes the method suitable for real-time applications such as:
 
 - Object detection and picking
-
-
-
-
-
-
-
-
-
